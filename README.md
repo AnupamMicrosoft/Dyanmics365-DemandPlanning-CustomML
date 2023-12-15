@@ -4,8 +4,7 @@
 Integrating Custom ML Models into Dynamics 365 Demand Planning
 
 ## Introduction or Background
-This project aims to bridge the gap between Dynamics 365 Demand Planning and custom machine learning models developed in Azure Machine Learning. It focuses on formatting data inputs and outputs to streamline the integration process, thus enhancing the efficiency and accuracy of demand forecasts in Dynamics 365 Supply Chain Management.
-
+This project aims to bridge the gap between Dynamics 365 Demand Planning and custom machine learning models developed in Azure Machine Learning. It focuses on formatting data inputs and outputs to streamline the integration process, thus enhancing the efficiency and accuracy of demand forecasts in Dynamics 365 Demand Planning Application.
 ## Installation and Setup
 1. **Clone the Repository**: `git clone https://github.com/YourUsername/Dyanmics365-DemandPlanning-CustomML.git`
 2. **Install Dependencies**: Navigate to the project directory and run `pip install -r requirements.txt` to install the necessary Python packages.
